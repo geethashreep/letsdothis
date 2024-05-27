@@ -1,0 +1,11 @@
+h1
+{
+	text-align: center;
+	font-family: "papyrus",fantasy;
+}
+body
+{
+	background-image: url("bgs.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+}
